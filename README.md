@@ -6,8 +6,9 @@ First git push and testing of .md
 * Second item
 * Third item
 * Forth item
-=======
-This is a practice repo
-
-*new text*
-**bold text**
+  
+This is a practice repo  
+  
+*new text*  
+  
+**bold text**  
