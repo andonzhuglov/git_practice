@@ -2,10 +2,10 @@
 
 First git push and testing of .md
 
-+ First item
-- Second item
+* First item
+* Second item
 * Third item
-_ Forth item
+* Forth item
   
 This is a practice repo  
   
