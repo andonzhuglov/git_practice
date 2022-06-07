@@ -3,9 +3,9 @@
 First git push and testing of .md
 
 + First item
-* Second item
+- Second item
 * Third item
-* Forth item
+_ Forth item
   
 This is a practice repo  
   
